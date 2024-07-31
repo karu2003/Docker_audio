@@ -1,0 +1,21 @@
+numpy
+jupyter
+ipykernel
+netCDF4
+pytest
+typing-extensions
+scipy
+matplotlib
+PyWavelets
+scaleogram
+line_profiler
+# tensorrt
+tensorflow
+# tf-nightly
+# torch
+# tensorflow-gpu
+# tf-nightly-gpu
+scikit-learn
+pyfftw
+pyaudio
+sounddevice
